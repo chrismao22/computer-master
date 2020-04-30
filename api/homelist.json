@@ -70,5 +70,41 @@
         "imgSrc": "https://chrismao22.github.io/computer-master/apiImages/list-msi-z390ACE.png",
         "desc": "微星 MEG Z390 ACE",
         "price": "￥2119.00"
+    },
+    {
+        "id": "13",
+        "imgSrc": "https://chrismao22.github.io/computer-master/apiImages/list-amd-3700x.png",
+        "desc": "AMD 3700X",
+        "price": "￥2199.00"
+    },
+    {
+        "id": "14",
+        "imgSrc": "https://chrismao22.github.io/computer-master/apiImages/list-msi-b360.png",
+        "desc": "微星 B360M 迫击炮",
+        "price": "￥679.00"
+    },
+    {
+        "id": "15",
+        "imgSrc": "https://chrismao22.github.io/computer-master/apiImages/list-coolermaster-v650.png",
+        "desc": "酷冷至尊 V650W 十年质保",
+        "price": "￥749.00"
+    },
+    {
+        "id": "16",
+        "imgSrc": "https://chrismao22.github.io/computer-master/apiImages/list-msi-z390-i7.png",
+        "desc": "微星 MPG Z390 + I7 9700K",
+        "price": "￥4149.00"
+    },
+    {
+        "id": "17",
+        "imgSrc": "https://chrismao22.github.io/computer-master/apiImages/list-samsung-970plus.png",
+        "desc": "三星 1TB 970 EVO Plus",
+        "price": "￥1999.00"
+    },
+    {
+        "id": "18",
+        "imgSrc": "https://chrismao22.github.io/computer-master/apiImages/list-noctua-u12a.png",
+        "desc": "猫头鹰 NH-U12A 7热管单塔双风扇",
+        "price": "￥799.00"
     }
 ]
