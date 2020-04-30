@@ -20,19 +20,19 @@
     {
         "id": "4",
         "imgSrc": "https://chrismao22.github.io/computer-master/apiImages/list-msi-2070S.png",
-        "desc": "微星旗舰魔龙 GAMINGX 2070S",
+        "desc": "微星旗舰魔龙 2070S",
         "price": "￥4299.00"
     },
     {
         "id": "5",
         "imgSrc": "https://chrismao22.github.io/computer-master/apiImages/list-msi-2080S.png",
-        "desc": "微星旗舰魔龙 GAMINGX 2080S",
+        "desc": "微星旗舰魔龙 2080S",
         "price": "￥5999.00"
     },
     {
         "id": "6",
         "imgSrc": "https://chrismao22.github.io/computer-master/apiImages/list-gskill-3600.png",
-        "desc": "芝奇(G.SKILL) 皇家戟 3600 8G*2",
+        "desc": "芝奇 皇家戟 3600 8G*2",
         "price": "￥999.00"
     },
     {
@@ -68,7 +68,7 @@
     {
         "id": "12",
         "imgSrc": "https://chrismao22.github.io/computer-master/apiImages/list-msi-z390ACE.png",
-        "desc": "微星 MEG Z390 ACE 战神板主板",
+        "desc": "微星 MEG Z390 ACE",
         "price": "￥2119.00"
     }
 ]
